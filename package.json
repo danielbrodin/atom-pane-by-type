@@ -1,0 +1,15 @@
+{
+  "name": "pane-by-type",
+  "main": "./lib/pane-by-type",
+  "version": "0.0.0",
+  "description": "Opens new files in the same pane as similiar files.",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/pane-by-type",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
