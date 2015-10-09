@@ -1,15 +1,13 @@
 {
   "name": "pane-by-type",
   "main": "./lib/pane-by-type",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Open new files in the same pane as similar files.",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/danielbrodin/atom-pane-by-type",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
