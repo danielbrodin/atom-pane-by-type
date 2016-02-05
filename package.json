@@ -1,7 +1,7 @@
 {
   "name": "pane-by-type",
   "main": "./lib/pane-by-type",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open new files in the same pane as similar files.",
   "keywords": [],
   "repository": "https://github.com/danielbrodin/atom-pane-by-type",
